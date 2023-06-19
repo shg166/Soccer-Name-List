@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<BlackList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Remove_Soccer_OpponentName">
+	<strings>
+		<!-- Remove Soccer Opponent Name -->
+		<LocalizedStringKey identifier="SPORT_OPPONENT_NAME" key="Football Match" />
+		<LocalizedStringKey identifier="SPORT_OPPONENT_NAME" key="Juventus" />
+		<LocalizedStringKey identifier="SPORT_OPPONENT_NAME" key="Chelsea" />
+		<LocalizedStringKey identifier="SPORT_OPPONENT_NAME" key="Barcelona" />
+		<LocalizedStringKey identifier="SPORT_OPPONENT_NAME" key="SaintGermain" />
+	</strings>
+</BlackList>
